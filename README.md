@@ -7,9 +7,9 @@ Data was downloaded from the City of Los Angeles at this URL:  https://data.laci
 The data contains crime information accumulated from 2020 through the first few months of 2024<br>
 The goal of this analysis is to identify patterns, trends, and factors contributing to crime in LA that would predict hotspots and understanding the factors that influence crime rates.  <br>
 Analysis on the data was performed using these tools:  Pyton, Pandas, Numpy, Jupyter Notebook, Matplotlib, Plotly Dahs, Leaflet, Machine Learning, SCKit, Spark SQL, Tableau, and Heroku, with varying degrees of success.  For example:<br>
- - Spark had problems with Plotly Dash, so we chose to implement Plotly in Pandas DataFrames
- - Heroku was our choice to deploy our app, but it required purchase
- - Tableau kept deleting our work!
+  - Spark had problems with Plotly Dash, so we chose to implement Plotly in Pandas DataFrames
+  - Heroku was our choice to deploy our app, but it required purchase
+  - Tableau kept deleting our work!
 
 Based on our data set, machine learning was the path we chose.<br>
 We used tuning, binning by crime type, cleansing and formatting to clean the data.<br>
