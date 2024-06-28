@@ -52,7 +52,7 @@ Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 ![tableau](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/tableu.png?raw=true)
 
 <br><strong>Crime Map</strong><br>
-  - https://github.com/petrick312/la_crime_map<br>
+  - [https://github.com/petrick312/la_crime_map](https://petrick312.github.io/la_crime_map/)<br>
 ![map](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/map.png?raw=true)
 
 
