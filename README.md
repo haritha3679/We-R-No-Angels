@@ -25,6 +25,11 @@ The goal of this analysis is to identify patterns, trends, and factors contribut
   - Plotly Dash with Spark: Spark had issues with Plotly Dash, so we implemented Plotly with Pandas DataFrames.
   - Heroku: We chose Heroku for app deployment, but it required a purchase.
   - Tableau: Tableau occasionally deleted our work, causing setbacks.
+  - API Calls to get zip code was tried but it was not possible to get for the million records in 
+    the time. Sites had restrictions of only 1000 or 3000 records per day. We did not want to 
+    compromise on the data volume so used districts instead. The address zip county.ipynb was 
+    developed but the analysis showed that it could not be used for the big data without paying for 
+    the API service.
 
 <strong>Machine Learning Approach</strong><br>
 We performed data cleaning, tuning, and binning by crime type to prepare the data. The results of our machine learning models were as follows:
