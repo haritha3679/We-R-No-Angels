@@ -30,7 +30,7 @@ Crime Bins : Crime_bins.csv<br>
 ### Links
 <strong>Tableau</strong><br>
   - https://public.tableau.com/authoring/DashboardProject4_17193531816340/Dashboard1#1<br>
-  - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
+  - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1
 <br><strong>Crime Map</strong><br>
   - https://github.com/petrick312/la_crime_map<br>
 
