@@ -27,11 +27,10 @@ Spark, Dash :  Crime_data_imp_dash.ipynb<br>
 Outliers : Outliers.ipynb<br>
 Crime Bins : Crime_bins.csv<br>
 
-<strong>Links</strong><br>
+### Links
 <strong>Tableau</strong><br>
   - https://public.tableau.com/authoring/DashboardProject4_17193531816340/Dashboard1#1<br>
   - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
-<br>
 <strong>Crime Map</strong><br>
   - https://github.com/petrick312/la_crime_map<br>
 
