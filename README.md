@@ -1,5 +1,5 @@
 # We-R-No-Angels
-City of Angels analysing Los Angeles crime data
+## City of Angels analysing Los Angeles crime data
 
 Participants:  Haritha Koleti, Michelle Petras, Veethika Singh, Kathleen Snider-Belinski, Carmen Wiggins
 
