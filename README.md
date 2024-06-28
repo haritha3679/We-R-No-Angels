@@ -28,8 +28,8 @@ The goal of this analysis is to identify patterns, trends, and factors contribut
 
 <strong>Machine Learning Approach</strong><br>
 We performed data cleaning, tuning, and binning by crime type to prepare the data. The results of our machine learning models were as follows:
-  - Logistic Regression: Achieved 19% accuracy with all features included.
-  - Random Forest: Achieved 35% accuracy which was closer.  
+  - Logistic Regression: Achieved 19% accuracy with all features included. Removed few unrequired features and applied Saga Solver algorithm, achived only higher 20s. We realised that eventhough Logistic regression is faster at calculating the accuracy it underperforms on the complex datasets.
+  - Random Forest: As Random forest is better at the complex datasets, we applied Random Forest model on our dataset but we could only go little more closer with 35% accuracy.  
   - Focused Feature Analysis: By focusing on specific features like area, gender, and age, we achieved 89% accuracy. We also explored interesting outliers using these methods, even with lower accuracy scores.
   - Model Comparison: Random Forest provided the highest or equal scores compared to other models. <<br>
 ![models](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/ML_Model_comp.png?raw=true)
