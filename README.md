@@ -1,26 +1,41 @@
 # We-R-No-Angels<br>
 ## City of Angels analyzing Los Angeles crime data<br>
 
-Participants:  Haritha Koleti, Michelle Petras, Veethika Singh, Kathleen Snider-Belinski, Carmen Wiggins<br><br>
+<strong>Participants:</strong> Haritha Koleti, Michelle Petras, Veethika Singh, Kathleen Snider-Belinski, Carmen Wiggins<br><br>
 
 Data was downloaded from the City of Los Angeles at this URL: https://data.lacity.org/Public-Safety/CrimeData-from-2020-to-Present/2nrs-mtv8/about_data.<br>
 The data contains crime information accumulated from 2020 through the first few months of 2024<br>
-The goal of this analysis is to identify patterns, trends, and factors contributing to crime in LA that would predict hotspots and understanding the factors that influence crime rates.  <br>
-Analysis on the data was performed using these tools:  Pyton, Pandas, Numpy, Jupyter Notebook, Matplotlib, Plotly Dahs, Leaflet, Machine Learning, SCKit, Spark SQL, Tableau, and Heroku, with varying degrees of success.  For example:<br>
-  - Spark had problems with Plotly Dash, so we chose to implement Plotly in Pandas DataFrames
-  - Heroku was our choice to deploy our app, but it required purchase
-  - Tableau kept deleting our work!
+The goal of this analysis is to identify patterns, trends, and factors contributing to crime in LA to predict hotspots and understand the factors that influence crime rates.  <br>
 
-Based on our data set, machine learning was the path we chose.<br>
-We used tuning, binning by crime type, cleansing and formatting to clean the data.<br>
-Logistical regression resulted in 19% accuracy on our dataset with all features included.<br>
-Random Forest got us closer to our goal with a 35% accuracy.<br>
-By focusing our requests by area, gender, age and other factors individually, we were able to achieve an accuracy of 89%.  Other interesting outliers became obvious utilizing these methods, even with lower accuracy scores, and we chose to explore some of them.<br>
-We then checked other models to see if we could increase any further, but Random Forest was the highest or equal score.<br>
+<strong>Tools Used</strong>
+  - Python
+  - Pandas
+  - Numpy
+  - Jupyter Notebook
+  - Matplotlib
+  - Plotly Dahs
+  - Leaflet
+  - Machine Learning
+  - SCKit
+  - Spark SQL
+  - Tableau
+  - Heroku
+  
+<strong>Challenges and Solutions</strong>
+  - Plotly Dash with Spark: Spark had issues with Plotly Dash, so we implemented Plotly with Pandas DataFrames.
+  - Heroku: We chose Heroku for app deployment, but it required a purchase.
+  - Tableau: Tableau occasionally deleted our work, causing setbacks.
+
+<strong>Machine Learning Approach</strong><br>
+We performed data cleaning, tuning, and binning by crime type to prepare the data. The results of our machine learning models were as follows:
+  - Logistic Regression: Achieved 19% accuracy with all features included.
+  - Random Forest: Achieved 35% accuracy which was closer.  
+  - Focused Feature Analysis: By focusing on specific features like area, gender, and age, we achieved 89% accuracy. We also explored interesting outliers using these methods, even with lower accuracy scores.
+  - Model Comparison: Random Forest provided the highest or equal scores compared to other models. <<br>
+![models](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/ML_Model_comp.png?raw=true)
 
 
-Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
-
+<strong>Files and Work Process</strong><br>
 <strong>Work process:</strong> Filename<br>
 <strong>Machine learning:</strong> Crime_analysisRF_tune.ipynb<br>
 <strong>Spark, Dash:</strong>  Crime_data_imp_dash.ipynb<br>
@@ -28,10 +43,17 @@ Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 <strong>Crime Bins:</strong> Crime_bins.csv<br>
 
 ### Links
+
+<strong>GitHub Repository</story><br>
+Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
+
 <strong>Tableau</strong><br>
-  - https://public.tableau.com/authoring/DashboardProject4_17193531816340/Dashboard1#1<br>
   - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
+![tableau](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/tableu.png?raw=true)
 
 <br><strong>Crime Map</strong><br>
   - https://github.com/petrick312/la_crime_map<br>
+![map](https://github.com/haritha3679/We-R-No-Angels/blob/main/static/img/map.png?raw=true)
+
+
 
