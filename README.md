@@ -3,7 +3,8 @@
 
 Participants:  Haritha Koleti, Michelle Petras, Veethika Singh, Kathleen Snider-Belinski, Carmen Wiggins<br><br>
 
-Data was downloaded from the City of Los Angeles at this URL:  https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data.<br>
+Data was downloaded from the City of Los Angeles at this URL:  
+  - https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data.<br>
 The data contains crime information accumulated from 2020 through the first few months of 2024<br>
 The goal of this analysis is to identify patterns, trends, and factors contributing to crime in LA that would predict hotspots and understanding the factors that influence crime rates.  <br>
 Analysis on the data was performed using these tools:  Pyton, Pandas, Numpy, Jupyter Notebook, Matplotlib, Plotly Dahs, Leaflet, Machine Learning, SCKit, Spark SQL, Tableau, and Heroku, with varying degrees of success.  For example:<br>
