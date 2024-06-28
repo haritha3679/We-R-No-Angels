@@ -21,13 +21,15 @@ We then checked other models to see if we could increase any further, but Random
 
 Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 
-Work process        Filename<br>
-Machine learning    Crime_analysisRF_tune.ipynb<br>
-Spark, Dash         Crime_data_imp_dash.ipynb<br>
-Outliers            Outliers.ipynb<br>
-Crime Bins          Crime_bins.csv<br>
+Work process : Filename<br>
+Machine learning : Crime_analysisRF_tune.ipynb<br>
+Spark, Dash :  Crime_data_imp_dash.ipynb<br>
+Outliers : Outliers.ipynb<br>
+Crime Bins : Crime_bins.csv<br>
 
 <strong>Links</strong><br>
-Tableau             https://public.tableau.com/authoring/DashboardProject4_17193531816340/Dashboard1#1<br>
-                    https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
-Crime Map           https://github.com/petrick312/la_crime_map<br>
+Tableau
+  - https://public.tableau.com/authoring/DashboardProject4_17193531816340/Dashboard1#1<br>
+  - https://public.tableau.com/app/profile/carmen.wiggins/viz/DashboardProject4_17193531816340/Dashboard1<br>
+Crime Map
+ - https://github.com/petrick312/la_crime_map<br>
