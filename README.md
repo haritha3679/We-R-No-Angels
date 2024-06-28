@@ -21,11 +21,11 @@ We then checked other models to see if we could increase any further, but Random
 
 Files are located in https://github.com/haritha3679/We-R-No-Angels<br>
 
-Work process : Filename<br>
-Machine learning : Crime_analysisRF_tune.ipynb<br>
-Spark, Dash :  Crime_data_imp_dash.ipynb<br>
-Outliers : Outliers.ipynb<br>
-Crime Bins : Crime_bins.csv<br>
+<strong>Work process:</strong> Filename<br>
+<strong>Machine learning:</strong> Crime_analysisRF_tune.ipynb<br>
+<strong>Spark, Dash:</strong>  Crime_data_imp_dash.ipynb<br>
+<strong>Outliers:</strong> Outliers.ipynb<br>
+<strong>Crime Bins:</strong> Crime_bins.csv<br>
 
 ### Links
 <strong>Tableau</strong><br>
